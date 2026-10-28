@@ -2,8 +2,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./dark.svg">
-  <img src="./dark" alt="Lusan Yadav, Software Engineer. Full-stack and ERP backend developer working with React, Node.js, Express, TypeScript and MS SQL.">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./light" alt="Lusan Yadav, Software Engineer. Full-stack and ERP backend developer working with React, Node.js, Express, TypeScript and MS SQL.">
 </picture>
 
 </div>
